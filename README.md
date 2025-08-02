@@ -66,7 +66,7 @@ cd ./src/models & python train_model.py & cd ../../
 
 <img src="docs/img_1.png" width="250">
 
-==============================
+______________________________
 
 <img src="docs/img_2.png" width="250">
 
